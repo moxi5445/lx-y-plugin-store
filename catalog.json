@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "name": "LX-Y Music 官方插件商店",
+  "plugins": [
+    {
+      "id": "qishui-music",
+      "version": "1.0.0",
+      "name": "汽水音乐",
+      "description": "接入汽水音乐音源：歌单广场、歌单详情、歌词、封面与试听播放；配置自建 qishui-api 服务后支持关键词搜索。直连模式为约 30 秒试听片段，仅供个人学习使用。",
+      "icon": "🥤",
+      "author": "lx-y",
+      "homepage": "https://github.com/moxi5445/lx-y-music-mobile",
+      "minAppVersion": "26.09.28",
+      "tags": ["music-source", "qs"],
+      "file": "plugins/qishui-music@1.0.0.js",
+      "sha256": "871319dd8923a07c12cf9b8fbe32408055f77ef88e5c0b2f4b61fea45d6e493b",
+      "fileSize": 18492,
+      "updatedAt": "2026-10-04"
+    }
+  ]
+}
